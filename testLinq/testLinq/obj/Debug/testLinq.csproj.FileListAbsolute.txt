@@ -1,0 +1,9 @@
+P:\Bunel Sébastien\Slam3\TP\C#\testLinq\testLinq\bin\Debug\testLinq.exe.config
+P:\Bunel Sébastien\Slam3\TP\C#\testLinq\testLinq\bin\Debug\testLinq.exe
+P:\Bunel Sébastien\Slam3\TP\C#\testLinq\testLinq\bin\Debug\testLinq.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\testLinq\testLinq\obj\Debug\testLinq.csprojResolveAssemblyReference.cache
+P:\Bunel Sébastien\Slam3\TP\C#\testLinq\testLinq\obj\Debug\testLinq.exe
+P:\Bunel Sébastien\Slam3\TP\C#\testLinq\testLinq\obj\Debug\testLinq.pdb
+U:\Slam3\TP\C#\testLinq\testLinq\bin\Debug\testLinq.exe.config
+U:\Slam3\TP\C#\testLinq\testLinq\obj\Debug\testLinq.exe
+U:\Slam3\TP\C#\testLinq\testLinq\obj\Debug\testLinq.pdb
