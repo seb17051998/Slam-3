@@ -1,0 +1,16 @@
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.exe.config
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.exe
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.pdb
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\libGesper.dll
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\libGesper.pdb
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.exe
+U:\Slam3\TP\C#\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.exe.config
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.exe
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.exe
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\ChargementGesper.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\libGesper.dll
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\bin\Debug\libGesper.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\ChargementGesper\obj\x86\Debug\ChargementGesper.csprojResolveAssemblyReference.cache

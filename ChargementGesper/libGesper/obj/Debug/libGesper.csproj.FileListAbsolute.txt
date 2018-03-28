@@ -1,0 +1,10 @@
+U:\Slam3\TP\C#\ChargementGesper\libGesper\bin\Debug\libGesper.dll
+U:\Slam3\TP\C#\ChargementGesper\libGesper\bin\Debug\libGesper.pdb
+U:\Slam3\TP\C#\ChargementGesper\libGesper\obj\Debug\ResolveAssemblyReference.cache
+U:\Slam3\TP\C#\ChargementGesper\libGesper\obj\Debug\libGesper.dll
+U:\Slam3\TP\C#\ChargementGesper\libGesper\obj\Debug\libGesper.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\libGesper\bin\Debug\libGesper.dll
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\libGesper\bin\Debug\libGesper.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\libGesper\obj\Debug\libGesper.dll
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\libGesper\obj\Debug\libGesper.pdb
+P:\Bunel Sébastien\Slam3\TP\C#\ChargementGesper\libGesper\obj\Debug\libGesper.csprojResolveAssemblyReference.cache

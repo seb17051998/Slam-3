@@ -1,0 +1,12 @@
+select * from employe e
+inner join posseder p
+on e.emp_id=p.pos_employe
+inner join diplome d
+on p.pos_diplome=d.dip_id;
+
+
+
+select * from employe e
+inner join service s
+on e.emp_service=s.ser_id;
+
